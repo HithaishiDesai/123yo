@@ -9,7 +9,10 @@
 `Read the documentation to know how to use the bot`
 <br>
 <br>
-        
+  
+# Deploy to Railway 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TRADYq?referralCode=giFRC4)     
 <p align="center">
     <a href="https://www.python.org">
         <img src="https://img.shields.io/badge/PYTHON-PROJECT-blueviolet?style=for-the-badge&logo=python">
